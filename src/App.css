@@ -1,0 +1,62 @@
+.header-color {
+  background: #ee0979; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #ff6a00,
+    #ee0979
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to left,
+    #ff6a00,
+    #ee0979
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.landing-grid {
+  background: #ee0979; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #ff6a00,
+    #ee0979
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to left,
+    #ff6a00,
+    #ee0979
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.avatar-img {
+  height: 250px;
+  padding-left: 600px;
+}
+.banner-text {
+  background-color: black;
+  opacity: 0.8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+}
+.banner-text h1 {
+  font-size: 66px;
+  font-weight: bold;
+  color: white;
+  padding-left: 280px;
+}
+.banner-text hr {
+  border-top: 5px dotted white;
+}
+.banner-text p {
+  color: white;
+  font-size: 20px;
+  padding-left: 17em;
+}
+.social-handlers {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+.social-handlers i {
+  color: white;
+  font-size: 5em;
+  padding: 8px;
+}
